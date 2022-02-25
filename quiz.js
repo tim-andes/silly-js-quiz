@@ -13,7 +13,7 @@ Challenge presented by Team Treehouse.
 let numCorrectAnswers = 0;
 
 // 2. Store the rank of a player
-let playerRank;
+const playerRank;
 
 // 3. Select the <main> HTML element
 selectMainElement = document.querySelector("main");
